@@ -505,11 +505,7 @@ body {
     max-width: 250px;
     width: 100%;
     background: #fff;
-    /*height: 90px;
-    *//*-webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
-    */border: 0px solid transparent;
+    border: 0px solid transparent;
     border-radius: 8px;
     margin: 10px 0;
     display: flex;
@@ -771,7 +767,7 @@ body {
     min-height: 112px;
     text-align: center;
     display: block;
-    vertical-align: middle;
+    /* vertical-align: middle; */
     font-family: Latolight;
     font-weight: 200;
     font-size: 20px;
@@ -973,9 +969,7 @@ body {
 .slider_2 {
     margin: 120px 0px;
 }
-.title_sl_2 {
-    
-}
+
 .title_sl_2 h2 {
     text-align: center;
     font-size: 45px;
@@ -1058,9 +1052,7 @@ body {
 }
 /* end causes */
 /* present */
-.present {
-    
-}
+
 .present .container {
     background: #f1f1f1;
 }
@@ -1118,9 +1110,7 @@ body {
     font-size: 36px;
     font-style: normal;
 }
-.btn_present {
-    
-}
+
 /* end present */
 
 
@@ -1163,9 +1153,7 @@ body {
 	padding-bottom: 40px;
 	border-bottom: 1px solid #ccc;
 }
-.items_1_footer p {
-	
-}
+
 .items_1_footer p span {
 	font-family: Latobold;
 }
@@ -1258,9 +1246,7 @@ form input:focus {
     max-width: 720px !important;
     width: 100%;    
 }
-#gallery_video iframe {
-     
-}
+
 /* end hidden div */
 
 @media screen and (max-width:767px) {
