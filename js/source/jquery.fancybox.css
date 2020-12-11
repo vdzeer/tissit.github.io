@@ -101,10 +101,10 @@
 	position: absolute;
 	top: -18px;
 	right: -18px;
-	width: 42px;
-	height: 42px;
+	width: 35px;
+	height: 35px;
 	cursor: pointer;
-	z-index: 8040;
+	z-index: 1040;
 	background: url('../../img/btn_close.png')
 }
 
